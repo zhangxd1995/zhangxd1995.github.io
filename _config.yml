@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xuedong's Personal Page / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xuedong ZHANG"
-description              : &description "Master's graduates from the Technical University of Munich"
+description              : &description "Master's graduate from the Technical University of Munich"
 url                      : https://zhangxd1995.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhangxd1995/zhangxd1995.github.io"
@@ -22,9 +22,9 @@ repository               : "zhangxd1995/zhangxd1995.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xuedong ZHANG"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master's graduate from the Technical University of Munich"
   location         : "Garching"
   employer         : "Technical University of Munich"
   uri              : # URL
@@ -42,7 +42,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  # github           : "academicpages"
+  # github           : "zhangxd1995"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
