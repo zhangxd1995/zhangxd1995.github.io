@@ -21,7 +21,7 @@ repository               : "zhangxd1995/zhangxd1995.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myfoto.jpg"
   name             : "Xuedong ZHANG"
   pronouns         : # example: "she/her"  
   bio              : "Master's graduate from TUM"
