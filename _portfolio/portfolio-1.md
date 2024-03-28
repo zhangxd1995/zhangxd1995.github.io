@@ -1,6 +1,7 @@
 ---
 title: "Demo for Real-time Human Action Recognition"
 excerpt: "This is the demo for my master's thesis"
+collection: portfolio
 ---
 
 <!-- Demo for Real-time Human Action Recognition --> 
