@@ -11,6 +11,4 @@ I recently graduated from the Technical University of Munich with a master's deg
 
 For more information, you can find my CV [here](../assets/CV.pdf).
 
-News
-======
 
